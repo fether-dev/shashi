@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "508779940647",
+    "firebase_url": "https://name-baby-5af28.firebaseio.com",
+    "project_id": "name-baby-5af28",
+    "storage_bucket": "name-baby-5af28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508779940647:android:9d866a4568fcccfe",
+        "android_client_info": {
+          "package_name": "com.feather.name_baby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508779940647-vstrnghgbvdbssd4i6cu8ogemffrt0b9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCidzlbhEEuiJnB7HYMtzsvrYCBWy0tNY8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
